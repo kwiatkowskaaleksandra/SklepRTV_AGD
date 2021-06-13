@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testy" tests="38" skipped="0" failures="0" errors="0" timestamp="2021-06-13T11:47:13" hostname="LAPTOP-VBCK2HV5" time="0.127">
+  <properties/>
+  <testcase name="sprCenaFalse()" classname="testy" time="0.025"/>
+  <testcase name="sprNrZamFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprEmailFalse()" classname="testy" time="0.002"/>
+  <testcase name="sprCenaTrue()" classname="testy" time="0.002"/>
+  <testcase name="sprNazwiskoTrue()" classname="testy" time="0.002"/>
+  <testcase name="sprId1True()" classname="testy" time="0.001"/>
+  <testcase name="sprIdFalse()" classname="testy" time="0.003"/>
+  <testcase name="sprImieTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprNazwiskoFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprAdresFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprOpisTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprProducentFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprPlatnoscTrue()" classname="testy" time="0.002"/>
+  <testcase name="sprProducentTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprDataFalse()" classname="testy" time="0.002"/>
+  <testcase name="spraNrTelFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprKodFalse()" classname="testy" time="0.0"/>
+  <testcase name="sprAdresTrue()" classname="testy" time="0.001"/>
+  <testcase name="spraNrTelTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprRataFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprNrZamFalse1()" classname="testy" time="0.002"/>
+  <testcase name="sprNrZamFalse2()" classname="testy" time="0.001"/>
+  <testcase name="spraNrTelFalse1()" classname="testy" time="0.002"/>
+  <testcase name="spraNrTelFalse2()" classname="testy" time="0.002"/>
+  <testcase name="sprRataTrue()" classname="testy" time="0.002"/>
+  <testcase name="sprNazwaTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprOpisFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprNrZamTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprIdTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprKodTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprNazwaFalse()" classname="testy" time="0.002"/>
+  <testcase name="sprDataTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprImieFalse()" classname="testy" time="0.001"/>
+  <testcase name="sprPlatnoscFalse()" classname="testy" time="0.002"/>
+  <testcase name="sprEmailTrue()" classname="testy" time="0.001"/>
+  <testcase name="sprPlatnoscFalse1()" classname="testy" time="0.001"/>
+  <testcase name="sprCenaFalse1()" classname="testy" time="0.001"/>
+  <testcase name="sprId1False()" classname="testy" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
